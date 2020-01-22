@@ -5,6 +5,7 @@ on: [push]
 jobs:
   build:
 
+    name: Sample Job
     runs-on: ubuntu-latest
 
     steps:
